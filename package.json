@@ -1,0 +1,11 @@
+{
+  "name": "miniproject2",
+  "version": "1.0.0",
+  "description": "Mini Project 2 - Task Manager Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Azim Azidin\", \"Hamdan Zakirin\"",
+  "license": "ISC"
+}
