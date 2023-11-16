@@ -1,7 +1,7 @@
 
 
 const readline = require('readline');
-const { readData, writeData } = require('./utils/storage');
+const { readData, writeData } = require('./src/utils/storage');
 
 const rl = readline.createInterface({
   input: process.stdin,
