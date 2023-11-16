@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Task 1",
+      "description": "Go hangout"
+    },
+    {
+      "title": "Youtube",
+      "description": "Video platform"
+    },
+    {
+      "title": "Netflix",
+      "description": "Movie platform"
+    },
+    {
+      "title": "Facebook",
+      "description": "Social media platform"
+    },
+    {
+      "title": "Pokemon Go",
+      "description": "Catch pokemon game"
+    },
+    {
+      "title": "Monopoly",
+      "description": "Board games"
+    }
+  ]
